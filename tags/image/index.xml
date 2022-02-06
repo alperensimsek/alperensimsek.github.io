@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Image on I&#39;m Alp!</title>
+    <link>https://alperensimsek.github.io/tags/image/</link>
+    <description>Recent content in Image on I&#39;m Alp!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>alperensimsek@windowslive.com (Alp)</managingEditor>
+    <webMaster>alperensimsek@windowslive.com (Alp)</webMaster>
+    <lastBuildDate>Sun, 06 Feb 2022 15:51:12 +0300</lastBuildDate>
+    
+	<atom:link href="https://alperensimsek.github.io/tags/image/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>First Post</title>
+      <link>https://alperensimsek.github.io/post/first-post/</link>
+      <pubDate>Sun, 06 Feb 2022 15:51:12 +0300</pubDate>
+      <author>alperensimsek@windowslive.com (Alp)</author>
+      <guid>https://alperensimsek.github.io/post/first-post/</guid>
+      <description>&lt;p&gt;Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&amp;rsquo;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

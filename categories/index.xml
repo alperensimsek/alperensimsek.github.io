@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on I&#39;m Alp!</title>
+    <link>https://alperensimsek.github.io/categories/</link>
+    <description>Recent content in Categories on I&#39;m Alp!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>alperensimsek@windowslive.com (Alp)</managingEditor>
+    <webMaster>alperensimsek@windowslive.com (Alp)</webMaster>
+    
+	<atom:link href="https://alperensimsek.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
